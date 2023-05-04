@@ -1,0 +1,26 @@
+.bg-container {
+  font-family: "Roboto";
+}
+
+.heading {
+  font-size: 25px;
+  color: #323f4b;
+  padding: 10px;
+}
+
+.para {
+  font-size: 15px;
+  color: #9aa5b1;
+  padding: 10px;
+}
+
+.image {
+  height: 28%;
+  width: 28%;
+  padding: 10px;
+}
+
+.video {
+  padding: 10px;
+  border-radius: 30px;
+}
